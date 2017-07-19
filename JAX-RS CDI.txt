@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/3027834/inject-an-ejb-into-jax-rs-restful-service
+
+https://dzone.com/articles/how-to-combine-rest-and-ejb-31
+
+
+Resource anotado com @Stateless/@LocalBean ?
+
